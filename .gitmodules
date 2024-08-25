@@ -1,0 +1,3 @@
+[submodule "passengerCounterApp"]
+	path = passengerCounterApp
+	url = https://github.com/TarandeepKaur11/passengerCounterApp.git

@@ -1,0 +1,44 @@
+body{
+    background-image:url("https://media.istockphoto.com/id/1832034664/photo/woman-traveler-with-backpack-at-railroad-station.jpg?s=1024x1024&w=is&k=20&c=dr8b0mS-zsx6y3XI7qpVjIocFlpi9YPQZp06OzhQ_9g=");
+    background-size:cover;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align:center;
+    
+}
+h1{
+    margin-top:10px;
+    margin-bottom:10px;
+}
+h2{
+    font-size:50px;
+    margin-top:0;
+    margin-bottom:20px;
+}
+p{
+    color: white;
+    font-weight: bold;
+}
+
+button{
+    border:none;
+    color: white;
+    padding:10px;
+    font-weight: bold;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+   
+
+}
+
+#increment-btn{
+    background-color: brown;
+}
+#increment-btn:hover{
+    padding:15px;
+    background-color:yellow;
+}
+#save-btn{
+    background-color: green;
+}
