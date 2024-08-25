@@ -129,3 +129,16 @@ welcomeEl.innerText+="👋";
 // console.log("5"+1);
 // console.log(100+"100");
 
+//execerise1:
+// let firstName="taran ";
+// let lastName="Kaur";
+// let fullName=firstName +" "+ lastName;
+// console.log(fullName);
+//excercise:2
+let herName="Linda";
+let greeting2="Hii there";
+function logGreeting(){
+    let fullGreeting=greeting2+","+" "+herName+"!";
+    console.log(fullGreeting);
+}
+logGreeting();
